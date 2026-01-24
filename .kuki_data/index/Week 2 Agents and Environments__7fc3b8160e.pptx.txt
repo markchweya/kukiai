@@ -1,0 +1,4 @@
+PPTX extraction needs python-pptx.
+
+Run:
+  pip install python-pptx
